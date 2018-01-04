@@ -1,0 +1,24 @@
+{
+  "name": "agni",
+  "version": "0.0.1",
+  "description": "Web Service Monitor",
+  "main": "agni.js",
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cswcl/agni.git"
+  },
+  "keywords": [
+    "web",
+    "service",
+    "monitoring"
+  ],
+  "author": "Fernando L. Canizo <fernandocanizo@gmail.com>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cswcl/agni/issues"
+  },
+  "homepage": "https://github.com/cswcl/agni#readme"
+}
