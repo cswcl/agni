@@ -4,6 +4,7 @@
   "description": "Web Service Monitor",
   "main": "agni.js",
   "scripts": {
+    "start": "node agni.js",
     "test": "echo 'No tests yet'"
   },
   "repository": {
